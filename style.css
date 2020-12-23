@@ -1,0 +1,35 @@
+/* * {
+  //background: linear-gradient(45deg, #49d49d 10%, #a2c7e5 90%);
+}*/
+header {
+  margin-top: 100px;
+}
+
+body {
+  background-position: top;
+
+  background-size: auto;
+  background-repeat: no-repeat;
+
+  text-align: center;
+  background-color: #ffffff;
+}
+
+/* HEADER */
+h1 {
+  margin-top: 100px;
+  margin-bottom: 30px;
+  font-size: 50px;
+}
+/* BUTTON */
+button {
+  width: 75px;
+  height: 40px;
+}
+/* FOOTER */
+footer p {
+  color: #888;
+  margin-top: 120px;
+  text-align: center;
+  padding: 2 0px 0;
+}
